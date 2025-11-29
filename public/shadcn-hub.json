@@ -1,0 +1,32 @@
+{
+    "$schema": "./schema.json",
+    "registries": [
+        {
+            "name": "Magic UI",
+            "slug": "magicui",
+            "description": "UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.",
+            "categories": [
+                "Libraries & Components"
+            ],
+            "tags": [],
+            "type": "",
+            "links": {
+                "homepage": "https://magicui.design/",
+                "repository": "https://github.com/magicuidesign/magicui"
+            },
+            "status": "deprecated",
+            "tech": {
+                "framework": "react"
+            },
+            "author": {
+                "name": "",
+                "github": ""
+            },
+            "github": {
+                "star": 0
+            },
+            "added_at": "",
+            "updated_at": ""
+        }
+    ]
+}
