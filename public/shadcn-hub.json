@@ -90,6 +90,37 @@
             },
             "added_at": "2025-12-01",
             "updated_at": ""
+        },
+        {
+            "name": "EasyFrontendHQ",
+            "slug": "EasyFrontendHQ",
+            "description": "About\nFree Tailwind UI React JS Components - built to create landing pages and websites. Easyfrontend UI components are free and open-source. show your support and love, don't forget to give us a star \uD83C\uDF1F",
+            "categories": [
+                "Design & Style Resources"
+            ],
+            "tags": [
+                "block",
+                "ui-components",
+                "uikit"
+            ],
+            "type": "design",
+            "links": {
+                "homepage": "https://easyfrontend.com/",
+                "repository": "https://github.com/EasyFrontendHQ/react-tailwindcss-components"
+            },
+            "status": "active",
+            "tech": {
+                "framework": "react"
+            },
+            "author": {
+                "name": "Santush Deb Nath",
+                "github": "https://github.com/santushnath"
+            },
+            "github": {
+                "star": 30
+            },
+            "added_at": "2025-12-01",
+            "updated_at": ""
         }
     ]
 }
