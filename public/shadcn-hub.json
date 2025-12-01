@@ -8,7 +8,11 @@
             "categories": [
                 "Libraries & Components"
             ],
-            "tags": ["react", "tailwind", "radix-ui"],
+            "tags": [
+                "react",
+                "tailwind",
+                "radix-ui"
+            ],
             "type": "library",
             "links": {
                 "homepage": "https://magicui.design/",
@@ -35,7 +39,10 @@
             "categories": [
                 "Templates & Starters"
             ],
-            "tags": ["conversational-ai", "chat-bot"],
+            "tags": [
+                "conversational-ai",
+                "chat-bot"
+            ],
             "type": "library",
             "links": {
                 "homepage": "https://www.assistant-ui.com/",
@@ -51,6 +58,35 @@
             },
             "github": {
                 "star": 7494
+            },
+            "added_at": "2025-12-01",
+            "updated_at": ""
+        },
+        {
+            "name": "Shadcn Hooks",
+            "slug": "shadcn-hooks",
+            "description": "A React Hooks Collection built with Shadcn",
+            "categories": [
+                "Plugins & Tools"
+            ],
+            "tags": [
+                "plugins"
+            ],
+            "type": "plugin",
+            "links": {
+                "homepage": "https://shadcn-hooks.vercel.app/",
+                "repository": "https://github.com/Debbl/shadcn-hooks"
+            },
+            "status": "active",
+            "tech": {
+                "framework": "react"
+            },
+            "author": {
+                "name": "Brendan Dash",
+                "github": "https://github.com/Debbl"
+            },
+            "github": {
+                "star": 21
             },
             "added_at": "2025-12-01",
             "updated_at": ""
