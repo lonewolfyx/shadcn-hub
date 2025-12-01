@@ -11,13 +11,16 @@
                 "type": "object",
                 "properties": {
                     "name": {
-                        "type": "string"
+                        "type": "string",
+                        "description": "Project name for the shadcn project encapsulation"
                     },
                     "slug": {
-                        "type": "string"
+                        "type": "string",
+                        "description": "Project aliases"
                     },
                     "description": {
-                        "type": "string"
+                        "type": "string",
+                        "description": "Project description"
                     },
                     "categories": {
                         "type": "array",
@@ -31,33 +34,47 @@
                                 "IconFont",
                                 "Shadcn Blocks"
                             ]
-                        }
+                        },
+                        "description": "project category"
                     },
                     "tags": {
                         "type": "array",
                         "items": {
                             "type": "string"
-                        }
+                        },
+                        "description": "project tags"
                     },
                     "type": {
-                        "type": "string"
+                        "type": "string",
+                        "enum": [
+                            "library",
+                            "template",
+                            "plugin",
+                            "design",
+                            "iconfont",
+                            "block"
+                        ],
+                        "description": "project type"
                     },
                     "links": {
                         "type": "object",
                         "properties": {
                             "homepage": {
                                 "type": "string",
-                                "format": "uri"
+                                "format": "uri",
+                                "description": "project homepage"
                             },
                             "repository": {
                                 "type": "string",
-                                "format": "uri"
+                                "format": "uri",
+                                "description": "project repository url"
                             }
                         },
                         "required": [
                             "homepage",
                             "repository"
-                        ]
+                        ],
+                        "description": "project links"
                     },
                     "status": {
                         "type": "string",
@@ -65,13 +82,14 @@
                             "active",
                             "deprecated"
                         ],
-                        "default": "active"
+                        "default": "active",
+                        "description": "project status"
                     },
                     "tech": {
                         "type": "object",
                         "properties": {
                             "framework": {
-                                "description": "归属的技术框架",
+                                "description": "The technical framework of attribution",
                                 "type": "string",
                                 "enum": [
                                     "vue",
@@ -88,32 +106,39 @@
                         "type": "object",
                         "properties": {
                             "name": {
-                                "type": "string"
+                                "type": "string",
+                                "description": "Project Author Name"
                             },
                             "github": {
-                                "type": "string"
+                                "type": "string",
+                                "description": "Project Author GitHub"
                             }
                         },
                         "required": [
                             "name"
-                        ]
+                        ],
+                        "description": "Project Author Information"
                     },
                     "github": {
                         "type": "object",
                         "properties": {
                             "star": {
-                                "type": "number"
+                                "type": "number",
+                                "description": "Project GitHub Star"
                             }
                         },
                         "required": [
                             "star"
-                        ]
+                        ],
+                        "description": "Project GitHub Information"
                     },
                     "added_at": {
-                        "type": "string"
+                        "type": "string",
+                        "description": "Project Added Time"
                     },
                     "updated_at": {
-                        "type": "string"
+                        "type": "string",
+                        "description": "Project Updated Time"
                     }
                 },
                 "required": [
