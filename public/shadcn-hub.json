@@ -8,24 +8,24 @@
             "categories": [
                 "Libraries & Components"
             ],
-            "tags": [],
-            "type": "",
+            "tags": ["react", "tailwind", "radix-ui"],
+            "type": "library",
             "links": {
                 "homepage": "https://magicui.design/",
                 "repository": "https://github.com/magicuidesign/magicui"
             },
-            "status": "deprecated",
+            "status": "active",
             "tech": {
                 "framework": "react"
             },
             "author": {
-                "name": "",
-                "github": ""
+                "name": "Dillion Verma",
+                "github": "https://github.com/dillionverma"
             },
             "github": {
-                "star": 0
+                "star": 19581
             },
-            "added_at": "",
+            "added_at": "2025-12-01",
             "updated_at": ""
         }
     ]
