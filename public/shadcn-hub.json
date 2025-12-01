@@ -121,6 +121,35 @@
             },
             "added_at": "2025-12-01",
             "updated_at": ""
+        },
+        {
+            "name": "MyNa Ui Icons",
+            "slug": "mynaui-icons",
+            "description": "Beautifully crafted open source icons from Myna UI.",
+            "categories": [
+                "IconFont"
+            ],
+            "tags": [
+                "icon"
+            ],
+            "type": "iconfont",
+            "links": {
+                "homepage": "https://mynaui.com/icons",
+                "repository": "https://github.com/praveenjuge/mynaui-icons/"
+            },
+            "status": "active",
+            "tech": {
+                "framework": "react"
+            },
+            "author": {
+                "name": "Praveen Juge",
+                "github": "https://github.com/praveenjuge"
+            },
+            "github": {
+                "star": 160
+            },
+            "added_at": "2025-12-01",
+            "updated_at": ""
         }
     ]
 }
