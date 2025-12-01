@@ -150,6 +150,35 @@
             },
             "added_at": "2025-12-01",
             "updated_at": ""
+        },
+        {
+            "name": "Shadcn UI Blocks",
+            "slug": "shadcnui-blocks",
+            "description": "Beautiful & Production-Ready shadcn/ui Blocks & Components",
+            "categories": [
+                "Shadcn Blocks"
+            ],
+            "tags": [
+                "block"
+            ],
+            "type": "block",
+            "links": {
+                "homepage": "https://www.shadcnui-blocks.com/",
+                "repository": "https://github.com/akash3444/shadcn-ui-blocks"
+            },
+            "status": "active",
+            "tech": {
+                "framework": "react"
+            },
+            "author": {
+                "name": "Akash Moradiya",
+                "github": "https://github.com/akash3444"
+            },
+            "github": {
+                "star": 553
+            },
+            "added_at": "2025-12-01",
+            "updated_at": ""
         }
     ]
 }
