@@ -41,7 +41,6 @@ export const virtualShadcnHub = (): Plugin => {
         async load(id) {
             if (id !== VIRTUAL_ID) return
 
-            console.log('shadcn hub load', await groupByCategories())
             return `export default ${JSON.stringify(await groupByCategories())}`
         },
         configureServer(server) {
