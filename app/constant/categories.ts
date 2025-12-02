@@ -1,4 +1,6 @@
-export const categories = [
+import type { ICategories } from '~/types/categories'
+
+export const categories: ICategories[] = [
     {
         name: 'Libraries & Components',
         url: 'libraries-components',
