@@ -3,7 +3,7 @@
     "registries": [
         {
             "name": "Magic UI",
-            "slug": "magicui",
+            "slug": "magic-ui",
             "description": "UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.",
             "categories": [
                 "Libraries & Components"
