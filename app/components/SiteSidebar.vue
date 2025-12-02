@@ -41,7 +41,7 @@
                         <SidebarMenuButton as-child>
                             <NuxtLink
                                 :href="item.url"
-                                target="_blank"
+                                :title="item.name"
                             >
                                 <Icon :name="item.icon" />
                                 <span>{{ item.name }}</span>
