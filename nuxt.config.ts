@@ -1,4 +1,5 @@
 import tailwindcss from '@tailwindcss/vite'
+import { virtualShadcnHub } from './plugins/virtual-shadcn-hub'
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
@@ -19,7 +20,10 @@ export default defineNuxtConfig({
     compatibilityDate: '2025-11-22',
 
     vite: {
-        plugins: [tailwindcss()],
+        plugins: [
+            tailwindcss(),
+            virtualShadcnHub(),
+        ],
     },
 
     eslint: {

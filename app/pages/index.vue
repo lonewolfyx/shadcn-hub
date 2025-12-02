@@ -1,19 +1,30 @@
 <template>
-    <div class="relative">
-        <div class="flex flex-wrap items-center lg:items-end justify-between gap-5 py-4">
-            <AppHeader
-                description="Overview of all team members and roles."
-                title="Libraries & Components"
-            />
-        </div>
-        <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-4">
-            <RegisterApp
-                v-for="item in Array.from({ length: 20 }, (_, i) => i+1)"
-                :key="item"
-            />
+    <div class="relative space-y-8">
+        <div
+            v-for="(items, category) in virtualShadcnHub"
+            :key="category"
+            class="flex flex-col"
+        >
+            <div class="flex flex-wrap items-center lg:items-end justify-between gap-5 py-4">
+                <AppHeader
+                    :title="category"
+                    :description="registryCategory[category]"
+                />
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-4">
+                <RegisterApp
+                    :registries="items.splice(0, 20)"
+                />
+            </div>
         </div>
     </div>
 </template>
 
 <script lang="ts" setup>
+import virtualShadcnHub from 'virtual:shadcn-hub'
+import { categories } from '~/constant/categories'
+
+const registryCategory = Object.fromEntries(
+    categories.map(item => [item.name, item.description]),
+)
 </script>
