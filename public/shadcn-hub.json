@@ -239,9 +239,9 @@
             "updated_at": ""
         },
         {
-            "name": "Wickedblocks",
-            "slug": "wickedblocks",
-            "description": "A collection of hundreds of fully responsive Talwind blocks & components. Ready to copy-paste into your Tailwind project.",
+            "name": "Relume UI",
+            "slug": "relume",
+            "description": "Access over 1,000 Client-First Webflow components from the world's largest Webflow Library. These components can be used to build beautiful websites and save you thousands of hours.",
             "categories": [
                 "Shadcn Blocks"
             ],
@@ -250,7 +250,7 @@
             ],
             "type": "block",
             "links": {
-                "homepage": "https://www.wickedblocks.dev/",
+                "homepage": "https://www.relume.io/components",
                 "repository": ""
             },
             "status": "active",
@@ -258,8 +258,8 @@
                 "framework": "react"
             },
             "author": {
-                "name": "Rob Austin",
-                "github": "https://github.com/JugglerX"
+                "name": "Relume",
+                "github": "https://x.com/relume_io"
             },
             "github": {
                 "star": 0
