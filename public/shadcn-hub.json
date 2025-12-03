@@ -237,6 +237,35 @@
             },
             "added_at": "2025-12-03",
             "updated_at": ""
+        },
+        {
+            "name": "Shadcn Ui Blocks",
+            "slug": "shadcn-ui-blocks",
+            "description": "Discover 502 fully responsive UI blocks, 124 component variants, and a production-ready Next.js SaaS template designed to power and elevate your Shadcn UI projects.",
+            "categories": [
+                "Shadcn Blocks"
+            ],
+            "tags": [
+                "block"
+            ],
+            "type": "block",
+            "links": {
+                "homepage": "https://www.shadcn-ui-blocks.com/",
+                "repository": ""
+            },
+            "status": "active",
+            "tech": {
+                "framework": "react"
+            },
+            "author": {
+                "name": "Shadcn UI Blocks",
+                "github": "https://x.com/shadcnuiblocks"
+            },
+            "github": {
+                "star": 0
+            },
+            "added_at": "2025-12-03",
+            "updated_at": ""
         }
     ]
 }
