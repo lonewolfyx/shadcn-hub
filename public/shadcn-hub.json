@@ -179,6 +179,35 @@
             },
             "added_at": "2025-12-01",
             "updated_at": ""
+        },
+        {
+            "name": "Shadcn Block",
+            "slug": "shadcnblocks",
+            "description": "The ultimate block set for Shadcn UI & Tailwind",
+            "categories": [
+                "Shadcn Blocks"
+            ],
+            "tags": [
+                "block"
+            ],
+            "type": "block",
+            "links": {
+                "homepage": "https://www.shadcnblocks.com/",
+                "repository": "https://github.com/shadcnblocks/shadcn-ui-blocks"
+            },
+            "status": "active",
+            "tech": {
+                "framework": "react"
+            },
+            "author": {
+                "name": "Rob Austin",
+                "github": "https://github.com/JugglerX"
+            },
+            "github": {
+                "star": 143
+            },
+            "added_at": "2025-12-03",
+            "updated_at": ""
         }
     ]
 }
