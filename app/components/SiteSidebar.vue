@@ -34,6 +34,19 @@
             <SidebarGroup>
                 <SidebarGroupLabel>Categories</SidebarGroupLabel>
                 <SidebarMenu>
+                    <SidebarMenuItem>
+                        <SidebarMenuButton as-child>
+                            <NuxtLink href="/">
+                                <Icon name="iconoir:dashboard" />
+                                <span>DashBoard</span>
+                            </NuxtLink>
+                        </SidebarMenuButton>
+                    </SidebarMenuItem>
+                </SidebarMenu>
+            </SidebarGroup>
+            <SidebarGroup>
+                <SidebarGroupLabel>Categories</SidebarGroupLabel>
+                <SidebarMenu>
                     <SidebarMenuItem
                         v-for="item in categories"
                         :key="item.name"
