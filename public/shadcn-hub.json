@@ -237,6 +237,35 @@
             },
             "added_at": "2025-12-03",
             "updated_at": ""
+        },
+        {
+            "name": "Relume UI",
+            "slug": "relume",
+            "description": "Access over 1,000 Client-First Webflow components from the world's largest Webflow Library. These components can be used to build beautiful websites and save you thousands of hours.",
+            "categories": [
+                "Shadcn Blocks"
+            ],
+            "tags": [
+                "block"
+            ],
+            "type": "block",
+            "links": {
+                "homepage": "https://www.relume.io/components",
+                "repository": ""
+            },
+            "status": "active",
+            "tech": {
+                "framework": "react"
+            },
+            "author": {
+                "name": "Relume",
+                "github": "https://x.com/relume_io"
+            },
+            "github": {
+                "star": 0
+            },
+            "added_at": "2025-12-03",
+            "updated_at": ""
         }
     ]
 }
