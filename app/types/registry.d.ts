@@ -19,7 +19,7 @@ export interface IRegistryChannel {
     }
     status: 'active' | 'deprecated'
     tech: {
-        framework: 'vue' | 'react'
+        framework: 'vue' | 'react' | 'svelte'
     }
     author: {
         name: string

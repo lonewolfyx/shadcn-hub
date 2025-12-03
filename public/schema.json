@@ -93,7 +93,8 @@
                                 "type": "string",
                                 "enum": [
                                     "vue",
-                                    "react"
+                                    "react",
+                                    "svelte"
                                 ],
                                 "default": "react"
                             }
