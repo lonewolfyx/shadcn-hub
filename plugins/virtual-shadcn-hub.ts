@@ -47,7 +47,7 @@ export const virtualShadcnHub = (): Plugin => {
             serverInstance = server
 
             const onFileChange = debounce({ delay: 100 }, async (eventName: string, file: string) => {
-                if (!file.includes(ROOT_PATH)) return
+                if (!file.includes(SHADCN_HUB_REGISTRY_PATH)) return
 
                 console.log(`shadcn hub update`, file)
 
