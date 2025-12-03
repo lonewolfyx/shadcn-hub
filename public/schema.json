@@ -37,25 +37,6 @@
                         },
                         "description": "project category"
                     },
-                    "tags": {
-                        "type": "array",
-                        "items": {
-                            "type": "string"
-                        },
-                        "description": "project tags"
-                    },
-                    "type": {
-                        "type": "string",
-                        "enum": [
-                            "library",
-                            "template",
-                            "plugin",
-                            "design",
-                            "iconfont",
-                            "block"
-                        ],
-                        "description": "project type"
-                    },
                     "links": {
                         "type": "object",
                         "properties": {
@@ -84,24 +65,6 @@
                         ],
                         "default": "active",
                         "description": "project status"
-                    },
-                    "tech": {
-                        "type": "object",
-                        "properties": {
-                            "framework": {
-                                "description": "The technical framework of attribution",
-                                "type": "string",
-                                "enum": [
-                                    "vue",
-                                    "react",
-                                    "svelte"
-                                ],
-                                "default": "react"
-                            }
-                        },
-                        "required": [
-                            "framework"
-                        ]
                     },
                     "author": {
                         "type": "object",
@@ -147,11 +110,8 @@
                     "slug",
                     "description",
                     "categories",
-                    "tags",
-                    "type",
                     "links",
                     "status",
-                    "tech",
                     "author",
                     "github",
                     "added_at",

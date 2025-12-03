@@ -11,16 +11,11 @@ export interface IRegistryChannel {
     slug: string
     description: string
     categories: CategoryType[]
-    tags: string[]
-    type: string
     links: {
         homepage: string
         repository: string
     }
     status: 'active' | 'deprecated'
-    tech: {
-        framework: 'vue' | 'react' | 'svelte'
-    }
     author: {
         name: string
         github: string
