@@ -353,6 +353,122 @@
             },
             "added_at": "2025-12-03",
             "updated_at": ""
+        },
+        {
+            "name": "Mvp Blocks",
+            "slug": "mvp-blocks",
+            "description": "Copy, paste, customize—and launch your idea faster than ever. Mvpblocks is a fully open-source, developer-first component library built using Next.js and TailwindCSS.",
+            "categories": [
+                "Shadcn Blocks"
+            ],
+            "tags": [
+                "block"
+            ],
+            "type": "block",
+            "links": {
+                "homepage": "https://blocks.mvp-subha.me/",
+                "repository": "https://github.com/subhadeeproy3902/mvpblocks"
+            },
+            "status": "active",
+            "tech": {
+                "framework": "react"
+            },
+            "author": {
+                "name": "Subhadeep Roy",
+                "github": "https://github.com/subhadeeproy3902"
+            },
+            "github": {
+                "star": 781
+            },
+            "added_at": "2025-12-03",
+            "updated_at": ""
+        },
+        {
+            "name": "tailark",
+            "slug": "tailark",
+            "description": "Speed up your workflow with responsive, pre-built UI blocks designed for marketing websites.",
+            "categories": [
+                "Shadcn Blocks"
+            ],
+            "tags": [
+                "block"
+            ],
+            "type": "block",
+            "links": {
+                "homepage": "https://tailark.com/",
+                "repository": "https://github.com/tailark/blocks"
+            },
+            "status": "active",
+            "tech": {
+                "framework": "react"
+            },
+            "author": {
+                "name": "Méschac Irung",
+                "github": "https://github.com/Meschacirung"
+            },
+            "github": {
+                "star": 2000
+            },
+            "added_at": "2025-12-03",
+            "updated_at": ""
+        },
+        {
+            "name": "blocks",
+            "slug": "blocks",
+            "description": "Free shadcn/ui blocks and components built with React, Tailwind CSS, and Next.js. Copy and paste 60+ beautifully designed, accessible UI blocks into your projects. Open source forever.",
+            "categories": [
+                "Shadcn Blocks"
+            ],
+            "tags": [
+                "block"
+            ],
+            "type": "block",
+            "links": {
+                "homepage": "https://blocks.so/",
+                "repository": "https://github.com/ephraimduncan/blocks"
+            },
+            "status": "active",
+            "tech": {
+                "framework": "react"
+            },
+            "author": {
+                "name": "Ephraim Duncan",
+                "github": "https://github.com/ephraimduncan"
+            },
+            "github": {
+                "star": 1232
+            },
+            "added_at": "2025-12-03",
+            "updated_at": ""
+        },
+        {
+            "name": "Supabase UI Library",
+            "slug": "supabase-ui-library",
+            "description": "Free shadcn/ui blocks and components built with React, Tailwind CSS, and Next.js. Copy and paste 60+ beautifully designed, accessible UI blocks into your projects. Open source forever.",
+            "categories": [
+                "Shadcn Blocks"
+            ],
+            "tags": [
+                "block"
+            ],
+            "type": "block",
+            "links": {
+                "homepage": "https://supabase.com/ui",
+                "repository": "https://github.com/supabase/supabase"
+            },
+            "status": "active",
+            "tech": {
+                "framework": "react"
+            },
+            "author": {
+                "name": "Ivan Vasilov",
+                "github": "https://github.com/ivasilov"
+            },
+            "github": {
+                "star": 1232
+            },
+            "added_at": "2025-12-03",
+            "updated_at": ""
         }
     ]
 }
