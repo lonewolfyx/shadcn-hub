@@ -77,7 +77,13 @@
         </SidebarContent>
         <SidebarFooter>
             <div class="flex justify-between items-center">
-                <Icon name="line-md:github-loop" />
+                <NuxtLink
+                    :to="SiteConfig.github"
+                    target="_blank"
+                    :title="SiteConfig.description"
+                >
+                    <Icon name="line-md:github-loop" />
+                </NuxtLink>
                 <Button>
                     <Icon name="line-md:github-loop" />
                     Submit
@@ -90,6 +96,7 @@
 <script lang="ts" setup>
 import { cn } from '~/lib/utils'
 import { categories } from '~/constant/categories'
+import { SiteConfig } from '~/lib/config'
 
 const platform = [
     {
