@@ -208,6 +208,35 @@
             },
             "added_at": "2025-12-03",
             "updated_at": ""
+        },
+        {
+            "name": "Spectrum UI",
+            "slug": "spectrumhq-ui",
+            "description": "250+ Production ready components, built with Next.js, shadcn/ui and Tailwind CSS.",
+            "categories": [
+                "Shadcn Blocks"
+            ],
+            "tags": [
+                "block"
+            ],
+            "type": "block",
+            "links": {
+                "homepage": "https://ui.spectrumhq.in/",
+                "repository": "https://github.com/arihantcodes/spectrum-ui"
+            },
+            "status": "active",
+            "tech": {
+                "framework": "react"
+            },
+            "author": {
+                "name": "Arihant jain",
+                "github": "https://github.com/arihantcodes"
+            },
+            "github": {
+                "star": 940
+            },
+            "added_at": "2025-12-03",
+            "updated_at": ""
         }
     ]
 }
