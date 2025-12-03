@@ -21,8 +21,10 @@
 </template>
 
 <script lang="ts" setup>
-import virtualShadcnHub from 'virtual:shadcn-hub'
+import shadcnHubData from 'virtual:shadcn-hub'
 import { categories } from '~/constant/categories'
+
+const virtualShadcnHub = structuredClone(shadcnHubData)
 
 const registryCategory = Object.fromEntries(
     categories.map(item => [item.name, item.description]),
