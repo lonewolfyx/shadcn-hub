@@ -13,7 +13,7 @@
             </div>
             <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-4">
                 <RegisterApp
-                    :registries="items.splice(0, 20)"
+                    :registries="items.slice(0, 20)"
                 />
             </div>
         </div>

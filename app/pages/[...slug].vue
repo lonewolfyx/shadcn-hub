@@ -33,9 +33,11 @@ const registryShadcnDirectory = computed(() => {
         return null
     }
 
+    const originalList = virtualShadcnHub[registryItem.name] as IRegistryChannel[]
+
     return {
         category: { ...registryItem },
-        registries: virtualShadcnHub[registryItem.name] as IRegistryChannel[],
+        registries: originalList ? [...originalList] : [],
     }
 })
 
