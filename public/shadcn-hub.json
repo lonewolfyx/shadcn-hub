@@ -469,6 +469,36 @@
             },
             "added_at": "2025-12-03",
             "updated_at": ""
+        },
+
+        {
+            "name": "SVGL",
+            "slug": "svgl",
+            "description": "A beautiful library with SVG logos",
+            "categories": [
+                "IconFont"
+            ],
+            "tags": [
+                "icon"
+            ],
+            "type": "iconfont",
+            "links": {
+                "homepage": "https://svgl.app/",
+                "repository": "https://github.com/pheralb/svgl"
+            },
+            "status": "active",
+            "tech": {
+                "framework": "svelte"
+            },
+            "author": {
+                "name": "Pablo Hdez",
+                "github": "https://github.com/pheralb"
+            },
+            "github": {
+                "star": 5299
+            },
+            "added_at": "2025-12-03",
+            "updated_at": ""
         }
     ]
 }
