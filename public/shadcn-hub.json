@@ -597,6 +597,710 @@
             },
             "added_at": "2025-12-03",
             "updated_at": ""
+        },
+        {
+            "name": "kanpeki",
+            "slug": "kanpeki",
+            "description": "\uD83C\uDF1F Accessible, flexible, mobile friendly, modern UI components.",
+            "categories": [
+                "Libraries & Components"
+            ],
+            "links": {
+                "homepage": "https://kanpeki.vercel.app",
+                "repository": "https://github.com/fellipeutaka/kanpeki"
+            },
+            "status": "active",
+            "author": {
+                "name": "Fellipe Utaka",
+                "github": "https://github.com/fellipeutaka"
+            },
+            "github": {
+                "star": 22
+            },
+            "added_at": "2025-12-09",
+            "updated_at": ""
+        },
+        {
+            "name": "Kibo Ui",
+            "slug": "kibo-ui",
+            "description": "A custom registry of composable, accessible and extensible components designed for use with shadcn/ui. Free and open source, forever.",
+            "categories": [
+                "Libraries & Components"
+            ],
+            "links": {
+                "homepage": "https://www.kibo-ui.com/",
+                "repository": "https://github.com/shadcnblocks/kibo"
+            },
+            "status": "active",
+            "author": {
+                "name": "Rob Austin",
+                "github": "https://github.com/JugglerX"
+            },
+            "github": {
+                "star": 3478
+            },
+            "added_at": "2025-12-09",
+            "updated_at": ""
+        },
+        {
+            "name": "Intent UI",
+            "slug": "intent-ui",
+            "description": "Intent UI is a chill set of React components, built on top of React Aria Components and Tailwind CSS. Easy to customize and just copy & paste into your React projects.",
+            "categories": [
+                "Libraries & Components"
+            ],
+            "links": {
+                "homepage": "https://intentui.com/",
+                "repository": "https://github.com/intentui/intentui"
+            },
+            "status": "active",
+            "author": {
+                "name": "Irsyad A. Panjaitan",
+                "github": "https://github.com/irsyadadl"
+            },
+            "github": {
+                "star": 1831
+            },
+            "added_at": "2025-12-09",
+            "updated_at": ""
+        },
+        {
+            "name": "Glass UI",
+            "slug": "class-ui",
+            "description": "A modern glassmorphic component library inspired by Apple's design, built with Next.js, React, and shadcn-ui registry",
+            "categories": [
+                "Libraries & Components"
+            ],
+            "links": {
+                "homepage": "https://glass-ui.crenspire.com/",
+                "repository": "https://github.com/crenspire/glass-ui"
+            },
+            "status": "active",
+            "author": {
+                "name": "Akshay Joshi",
+                "github": "https://github.com/akshaypjoshi"
+            },
+            "github": {
+                "star": 21
+            },
+            "added_at": "2025-12-09",
+            "updated_at": ""
+        },
+        {
+            "name": "Gaia UI",
+            "slug": "gaia-ui",
+            "description": "Production-ready UI components designed for building beautiful AI assistants and conversational interfaces, from the team behind GAIA",
+            "categories": [
+                "Libraries & Components"
+            ],
+            "links": {
+                "homepage": "https://ui.heygaia.io/",
+                "repository": "https://github.com/theexperiencecompany/ui"
+            },
+            "status": "active",
+            "author": {
+                "name": "Aryan",
+                "github": "https://github.com/aryanranderiya"
+            },
+            "github": {
+                "star": 11
+            },
+            "added_at": "2025-12-09",
+            "updated_at": ""
+        },
+        {
+            "name": "formcn",
+            "slug": "formcn",
+            "description": "Build production-ready forms with a few clicks",
+            "categories": [
+                "Plugins & Tools"
+            ],
+            "links": {
+                "homepage": "https://formcn.dev/",
+                "repository": "https://github.com/Ali-Hussein-dev/formcn"
+            },
+            "status": "active",
+            "author": {
+                "name": "Ali Hussein",
+                "github": "https://github.com/Ali-Hussein-dev"
+            },
+            "github": {
+                "star": 373
+            },
+            "added_at": "2025-12-09",
+            "updated_at": ""
+        },
+        {
+            "name": "fancy",
+            "slug": "fancy",
+            "description": "A growing library of fancy, fun, animated react components & microinteractions to make the web fun again. Free & Open Source.",
+            "categories": [
+                "Libraries & Components"
+            ],
+            "links": {
+                "homepage": "https://www.fancycomponents.dev/",
+                "repository": "https://github.com/danielpetho/fancy"
+            },
+            "status": "active",
+            "author": {
+                "name": "Daniel Petho",
+                "github": "https://github.com/danielpetho"
+            },
+            "github": {
+                "star": 2637
+            },
+            "added_at": "2025-12-09",
+            "updated_at": ""
+        },
+        {
+            "name": "ElevenLabs UI",
+            "slug": "elevenLabs-ui",
+            "description": "ElevenLabs UI is a component library and custom registry built on top of shadcn/ui to help you build multimodal agents faster.",
+            "categories": [
+                "Libraries & Components"
+            ],
+            "links": {
+                "homepage": "https://ui.elevenlabs.io/",
+                "repository": "https://github.com/elevenlabs/ui"
+            },
+            "status": "active",
+            "author": {
+                "name": "Louis J.",
+                "github": "https://github.com/louisjoecodes"
+            },
+            "github": {
+                "star": 1533
+            },
+            "added_at": "2025-12-09",
+            "updated_at": ""
+        },
+        {
+            "name": "element",
+            "slug": "element",
+            "description": "full-stack shadcn/ui components",
+            "categories": [
+                "Libraries & Components"
+            ],
+            "links": {
+                "homepage": "https://www.tryelements.dev/",
+                "repository": "https://github.com/crafter-station/elements"
+            },
+            "status": "active",
+            "author": {
+                "name": "Railly Hugo",
+                "github": "https://github.com/Railly"
+            },
+            "github": {
+                "star": 331
+            },
+            "added_at": "2025-12-09",
+            "updated_at": ""
+        },
+        {
+            "name": "Eldora Ui",
+            "slug": "eldora-ui",
+            "description": "Eldora UI is a collection of re-usable components that you can copy and paste into your web apps. It primarily features components, blocks, and templates.",
+            "categories": [
+                "Libraries & Components"
+            ],
+            "links": {
+                "homepage": "https://www.eldoraui.site/",
+                "repository": "https://github.com/karthikmudunuri/eldoraui"
+            },
+            "status": "active",
+            "author": {
+                "name": "Mudunuri bhaskara karthikeya varma",
+                "github": "https://github.com/karthikmudunuri"
+            },
+            "github": {
+                "star": 331
+            },
+            "added_at": "2025-12-09",
+            "updated_at": ""
+        },
+        {
+            "name": "Doras UI",
+            "slug": "doras-ui",
+            "description": "A collection of beautiful, reusable component blocks built with React",
+            "categories": [
+                "Libraries & Components"
+            ],
+            "links": {
+                "homepage": "https://ui.doras.to/",
+                "repository": "https://github.com/dorasto/ui"
+            },
+            "status": "active",
+            "author": {
+                "name": "Tommy Lundy",
+                "github": "https://github.com/tommerty"
+            },
+            "github": {
+                "star": 1
+            },
+            "added_at": "2025-12-09",
+            "updated_at": ""
+        },
+        {
+            "name": "Dice UI",
+            "slug": "dice-ui",
+            "description": "Accessible shadcn/ui components built with React, TypeScript, and Tailwind CSS. Copy-paste ready, and customizable.",
+            "categories": [
+                "Libraries & Components"
+            ],
+            "links": {
+                "homepage": "https://www.diceui.com/",
+                "repository": "https://github.com/sadmann7/diceui"
+            },
+            "status": "active",
+            "author": {
+                "name": "Sadman Sakib",
+                "github": "https://github.com/sadmann7"
+            },
+            "github": {
+                "star": 1
+            },
+            "added_at": "2025-12-09",
+            "updated_at": ""
+        },
+        {
+            "name": "Creative Tim UI",
+            "slug": "creative-tim-ui",
+            "description": "Open-source components, blocks, and AI agents designed to speed up your workflow. Import them seamlessly into your favorite tools through Registry and MCPs.",
+            "categories": [
+                "Libraries & Components"
+            ],
+            "links": {
+                "homepage": "https://www.creative-tim.com/ui",
+                "repository": "https://github.com/creativetimofficial/ui"
+            },
+            "status": "active",
+            "author": {
+                "name": "axelut",
+                "github": "https://github.com/axelut"
+            },
+            "github": {
+                "star": 11380
+            },
+            "added_at": "2025-12-09",
+            "updated_at": ""
+        },
+        {
+            "name": "CommerCN",
+            "slug": "commer-cn",
+            "description": "Open-source components, blocks, and AI agents designed to speed up your workflow. Import them seamlessly into your favorite tools through Registry and MCPs.",
+            "categories": [
+                "Libraries & Components"
+            ],
+            "links": {
+                "homepage": "https://commercn.com/",
+                "repository": "https://github.com/Logging-Studio/Commercn"
+            },
+            "status": "active",
+            "author": {
+                "name": "Arif Hossain",
+                "github": "https://github.com/ariflogs"
+            },
+            "github": {
+                "star": 31
+            },
+            "added_at": "2025-12-09",
+            "updated_at": ""
+        },
+        {
+            "name": "coss",
+            "slug": "coss-ui",
+            "description": "coss.com is the new holding company of cal.com, the pioneers of open source scheduling infrastructure and cal.com continues to be the 'google search' of our alphabet.",
+            "categories": [
+                "Libraries & Components"
+            ],
+            "links": {
+                "homepage": "https://coss.com/ui/docs",
+                "repository": "https://github.com/cosscom/coss"
+            },
+            "status": "active",
+            "author": {
+                "name": "Pasquale Vitiello",
+                "github": "https://github.com/pasqualevitiello"
+            },
+            "github": {
+                "star": 9005
+            },
+            "added_at": "2025-12-09",
+            "updated_at": ""
+        },
+        {
+            "name": "Billing Sdk",
+            "slug": "Billing-sdk",
+            "description": "Modern Billing & Monetization UI Components Library",
+            "categories": [
+                "Libraries & Components"
+            ],
+            "links": {
+                "homepage": "https://billingsdk.com/",
+                "repository": "https://github.com/dodopayments/billingsdk"
+            },
+            "status": "active",
+            "author": {
+                "name": "Sahil Tiwaskar",
+                "github": "https://github.com/tsahil01"
+            },
+            "github": {
+                "star": 345
+            },
+            "added_at": "2025-12-09",
+            "updated_at": ""
+        },
+        {
+            "name": "Better Upload",
+            "slug": "Better Upload",
+            "description": "Simple and easy file uploads for React. Upload directly to any S3-compatible service with minimal setup.",
+            "categories": [
+                "Plugins & Tools"
+            ],
+            "links": {
+                "homepage": "https://better-upload.com/",
+                "repository": "https://github.com/Nic13Gamer/better-upload"
+            },
+            "status": "active",
+            "author": {
+                "name": "Nicholas",
+                "github": "https://github.com/Nic13Gamer"
+            },
+            "github": {
+                "star": 1054
+            },
+            "added_at": "2025-12-09",
+            "updated_at": ""
+        },
+        {
+            "name": "basecn",
+            "slug": "basecn",
+            "description": "shadcn/ui components powered by Base UI",
+            "categories": [
+                "Libraries & Components"
+            ],
+            "links": {
+                "homepage": "https://basecn.dev/",
+                "repository": "https://github.com/akash3444/basecn"
+            },
+            "status": "active",
+            "author": {
+                "name": "Akash Moradiya",
+                "github": "https://github.com/akash3444"
+            },
+            "github": {
+                "star": 225
+            },
+            "added_at": "2025-12-09",
+            "updated_at": ""
+        },
+        {
+            "name": "Austin Ui",
+            "slug": "austin-ui",
+            "description": "",
+            "categories": [
+                "Libraries & Components"
+            ],
+            "links": {
+                "homepage": "https://austin-ui.netlify.app/",
+                "repository": "https://github.com/chisomuma/austin-ui"
+            },
+            "status": "active",
+            "author": {
+                "name": "Chisom Uma",
+                "github": "https://github.com/ChisomUma"
+            },
+            "github": {
+                "star": 0
+            },
+            "added_at": "2025-12-09",
+            "updated_at": ""
+        },
+        {
+            "name": "Animate Ui",
+            "slug": "animate-ui",
+            "description": "Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.",
+            "categories": [
+                "Libraries & Components"
+            ],
+            "links": {
+                "homepage": "https://animate-ui.com/",
+                "repository": "https://github.com/imskyleen/animate-ui"
+            },
+            "status": "active",
+            "author": {
+                "name": "Elliot Sutton",
+                "github": "https://github.com/imskyleen"
+            },
+            "github": {
+                "star": 3035
+            },
+            "added_at": "2025-12-09",
+            "updated_at": ""
+        },
+        {
+            "name": "Aliimam Blocks",
+            "slug": "aliimam",
+            "description": "Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.",
+            "categories": [
+                "Shadcn Blocks"
+            ],
+            "links": {
+                "homepage": "https://aliimam.in/blocks",
+                "repository": "https://github.com/aliimam-in/aliimam"
+            },
+            "status": "active",
+            "author": {
+                "name": "Ali Imam",
+                "github": "https://github.com/aliimam-in"
+            },
+            "github": {
+                "star": 5
+            },
+            "added_at": "2025-12-09",
+            "updated_at": ""
+        },
+        {
+            "name": "Alpine",
+            "slug": "alpine",
+            "description": "A example registry for distributing code using shadcn.",
+            "categories": [
+                "Shadcn Blocks"
+            ],
+            "links": {
+                "homepage": "https://alpine-registry.vercel.app/",
+                "repository": ""
+            },
+            "status": "active",
+            "author": {
+                "name": "",
+                "github": ""
+            },
+            "github": {
+                "star": 0
+            },
+            "added_at": "2025-12-09",
+            "updated_at": ""
+        },
+        {
+            "name": "Site Search",
+            "slug": "sitesearch",
+            "description": "\uD83E\uDEC6 Opinionated search experiences for your search needs, powered by Algolia's Instant Search and AskAI",
+            "categories": [
+                "Plugins & Tools"
+            ],
+            "links": {
+                "homepage": "https://sitesearch.algolia.com/",
+                "repository": "https://github.com/algolia/sitesearch"
+            },
+            "status": "active",
+            "author": {
+                "name": "Dylan Tientcheu",
+                "github": "https://github.com/dylantientcheu"
+            },
+            "github": {
+                "star": 12
+            },
+            "added_at": "2025-12-09",
+            "updated_at": ""
+        },
+        {
+            "name": "Web LLM Blocks",
+            "slug": "web-llm-blocks",
+            "description": "\uD83E\uDEC6 Opinionated search experiences for your search needs, powered by Algolia's Instant Search and AskAI",
+            "categories": [
+                "Shadcn Blocks"
+            ],
+            "links": {
+                "homepage": "https://www.webllm.org/blocks",
+                "repository": "https://github.com/webllm-org/ai-blocks"
+            },
+            "status": "active",
+            "author": {
+                "name": "I Plan Websites",
+                "github": "https://github.com/iplanwebsites"
+            },
+            "github": {
+                "star": 1
+            },
+            "added_at": "2025-12-09",
+            "updated_at": ""
+        },
+        {
+            "name": "Aevr UI",
+            "slug": "aevr-ui",
+            "description": "A collection of beautiful, accessible, and production-ready components built on top of shadcn/ui. Get started in seconds.",
+            "categories": [
+                "Libraries & Components"
+            ],
+            "links": {
+                "homepage": "https://ui.aevr.space/",
+                "repository": "https://github.com/aevrhq/ui"
+            },
+            "status": "active",
+            "author": {
+                "name": "Miracle Onyenma",
+                "github": "https://github.com/miracleonyenma"
+            },
+            "github": {
+                "star": 1
+            },
+            "added_at": "2025-12-09",
+            "updated_at": ""
+        },
+        {
+            "name": "Ab UI",
+            "slug": "ab-ui",
+            "description": "ABUI | Components, blocks, and utilities by Antonio Brandao.",
+            "categories": [
+                "Libraries & Components"
+            ],
+            "links": {
+                "homepage": "https://www.abui.io/",
+                "repository": "https://github.com/antoniobrandao/abui"
+            },
+            "status": "active",
+            "author": {
+                "name": "Antonio Brandao",
+                "github": "https://github.com/antoniobrandao"
+            },
+            "github": {
+                "star": 3
+            },
+            "added_at": "2025-12-09",
+            "updated_at": ""
+        },
+        {
+            "name": "AGW Reusables",
+            "slug": "agw-reusables",
+            "description": "Re-usable components and snippets for building with AGW",
+            "categories": [
+                "Libraries & Components"
+            ],
+            "links": {
+                "homepage": "https://build.abs.xyz/",
+                "repository": "https://github.com/jarrodwatts/agw-reusables"
+            },
+            "status": "active",
+            "author": {
+                "name": "Antonio Brandao",
+                "github": "https://github.com/antoniobrandao"
+            },
+            "github": {
+                "star": 16
+            },
+            "added_at": "2025-12-09",
+            "updated_at": ""
+        },
+        {
+            "name": "8bitcn ui",
+            "slug": "8bitcn-ui",
+            "description": "A set of retro-designed, accessible components and a code distribution platform. Open Source. Open Code.",
+            "categories": [
+                "Libraries & Components"
+            ],
+            "links": {
+                "homepage": "https://www.8bitcn.com/",
+                "repository": "https://github.com/TheOrcDev/8bitcn-ui"
+            },
+            "status": "active",
+            "author": {
+                "name": "OrcDev",
+                "github": "https://github.com/TheOrcDev"
+            },
+            "github": {
+                "star": 1295
+            },
+            "added_at": "2025-12-09",
+            "updated_at": ""
+        },
+        {
+            "name": "Len Blocks",
+            "slug": "lens-blocks",
+            "description": "A shadcn/ui registry of blocks and components for Lens Social Protocol.",
+            "categories": [
+                "Shadcn Blocks"
+            ],
+            "links": {
+                "homepage": "https://lensblocks.com/",
+                "repository": "https://github.com/ipaulpro/lens-blocks"
+            },
+            "status": "active",
+            "author": {
+                "name": "Paul Burke",
+                "github": "https://github.com/iPaulPro"
+            },
+            "github": {
+                "star": 4
+            },
+            "added_at": "2025-12-09",
+            "updated_at": ""
+        },
+        {
+            "name": "Lime Player",
+            "slug": "lime-player",
+            "description": "Modern UI Library for Video Players in React. @shaka-project for player engine and @shadcn-ui for installation. Beautifully designed & accessible components, packed with hooks.",
+            "categories": [
+                "Plugins & Tools"
+            ],
+            "links": {
+                "homepage": "https://limeplay.winoffrg.dev/",
+                "repository": "https://github.com/winoffrg/limeplay/"
+            },
+            "status": "active",
+            "author": {
+                "name": "Rohan Gupta",
+                "github": "https://github.com/WINOFFRG"
+            },
+            "github": {
+                "star": 181
+            },
+            "added_at": "2025-12-09",
+            "updated_at": ""
+        },
+        {
+            "name": "Lucide Animated",
+            "slug": "lucide-animated",
+            "description": "beautifully crafted animated icons",
+            "categories": [
+                "IconFont"
+            ],
+            "links": {
+                "homepage": "https://lucide-animated.com/",
+                "repository": "https://github.com/pqoqubbw/icons"
+            },
+            "status": "active",
+            "author": {
+                "name": "dmytro",
+                "github": "https://github.com/pqoqubbw"
+            },
+            "github": {
+                "star": 181
+            },
+            "added_at": "2025-12-09",
+            "updated_at": ""
+        },
+        {
+            "name": "Tweakcn",
+            "slug": "tweakcn",
+            "description": "A visual no-code theme editor for shadcn/ui components",
+            "categories": [
+                "Plugins & Tools"
+            ],
+            "links": {
+                "homepage": "https://lucide-animated.com/",
+                "repository": "https://github.com/jnsahaj/tweakcn"
+            },
+            "status": "active",
+            "author": {
+                "name": "Sahaj Jain",
+                "github": "https://github.com/jnsahaj"
+            },
+            "github": {
+                "star": 8445
+            },
+            "added_at": "2025-12-09",
+            "updated_at": ""
         }
     ]
 }
