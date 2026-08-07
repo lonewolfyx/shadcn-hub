@@ -1301,6 +1301,30 @@
             },
             "added_at": "2025-12-09",
             "updated_at": ""
+        },
+        {
+            "name": "Payload Components",
+            "slug": "payload-components",
+            "description": "MIT registry of typed Payload CMS blocks for Payload v3 and Next.js, with a companion CLI that automates the required Payload wiring.",
+            "categories": [
+                "Libraries & Components",
+                "Plugins & Tools",
+                "Shadcn Blocks"
+            ],
+            "links": {
+                "homepage": "https://www.payload-components.xyz/",
+                "repository": "https://github.com/Ducksss/payload-components"
+            },
+            "status": "active",
+            "author": {
+                "name": "Chai Pin Zheng",
+                "github": "https://github.com/Ducksss"
+            },
+            "github": {
+                "star": 21
+            },
+            "added_at": "2026-07-28",
+            "updated_at": ""
         }
     ]
 }
